@@ -1219,7 +1219,7 @@ require(
 
             //CLICK FACEBOOK BUTTON
             button4.node.addEventListener('click', function(ev){
-                window.open("https://www.facebook.com/sharer/sharer.php?u=http%3A//sherlyngxt.github.io/family/");
+                window.open("https://www.facebook.com/sharer/sharer.php?u=http%3A//sherlyngxt.github.io/marielfam/");
             });
 
         //CLICK THERESA PICTURE
